@@ -67,7 +67,7 @@ photo_2.jpg
 No files are overwritten.
 
 > [!WARNING]
-> Be **CAREFUL** with **WHERE** you run this script. I'm not responsible for any damage, or misuse resulting from its use.
+> Be **CAREFUL** with **WHERE** you run this script. I'm not responsible for any damage or misuse resulting from its use.
 
 ## Requirements
 
